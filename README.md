@@ -77,7 +77,7 @@ model = runash.train_image_model(images)
 predictions = runash.predict_image(model, new_images)
 print(predictions)
 ```
-
+For more examples and detailed usage,refer to the [API Reference](docs/api_reference.md)
 ## Contributing
 We welcome contributions from the community. To contribute, please follow these steps:
 
