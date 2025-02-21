@@ -1,6 +1,6 @@
 # RunAsh AI
 
-RunAsh AI is an advanced AI-powered startup designed to provide intelligent solutions for various applications. This repository contains the source code, documentation, and other resources related to the RunAsh AI project.
+RunAsh AI is an efficient live streaming action recognition model designed to provide intelligent solutions for humanity. This repository contains the source code, documentation, and other resources related to the RunAsh AI project.
 
 ## Table of Contents
 - [Introduction](#introduction)
